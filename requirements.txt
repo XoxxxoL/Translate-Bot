@@ -1,0 +1,4 @@
+environs~=8.0.0
+aiogram~=2.13
+langdetect~=1.0.9
+pydub~=0.25.1
